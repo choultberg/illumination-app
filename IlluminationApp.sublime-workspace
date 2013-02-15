@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"uploaded",
+				"uploadedToS3"
+			],
+			[
+				"assignment",
+				"assignmentId"
+			],
+			[
+				"final",
+				"finalProduct"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"answer",
+				"answerFetched"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"em",
+				"emailAddress"
+			],
+			[
+				"long",
+				"long_name"
+			],
+			[
+				"font",
+				"fontDir"
+			],
+			[
+				"Ma",
+				"MAGNUM"
+			],
+			[
+				"filter",
+				"filterGroups"
+			],
+			[
+				"selected",
+				"selectedItem"
+			],
+			[
+				"na",
+				"navLists"
+			],
+			[
+				"cameraSta",
+				"cameraStations"
+			],
+			[
+				"selec",
+				"selectedItem"
+			],
+			[
+				"asset",
+				"assetGroups"
+			],
+			[
+				"addPA",
+				"addParticleAt"
+			],
+			[
+				"scene",
+				"sceneHeight"
+			],
+			[
+				"lols",
+				"lolsBeingMixed"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"videos",
+				"videosBeingProcessed"
+			],
+			[
+				"not",
+				"notNull"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"frames",
+				"framesdir"
+			],
+			[
+				"mov",
+				"movie1"
+			],
+			[
+				"report_",
+				"report_extract_entry"
+			],
+			[
+				"report",
+				"report_title"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeff/Sites/laborers-of-love/config.js",
+		"/Users/jeff/Sites/laborers-of-love/app.js",
+		"/Users/jeff/Sites/laborers-of-love/views/globe.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/js/globe.js",
+		"/Users/jeff/Desktop/globe/bitcoin.html",
+		"/Users/jeff/Desktop/globe/globe.js",
+		"/Users/jeff/Sites/laborers-of-love/views/index.ejs",
+		"/Users/jeff/.netrc",
+		"/Users/jeff/Sites/laborers-of-love/bin/mix.py",
+		"/Users/jeff/Sites/laborers-of-love/public/css/create.css",
+		"/Users/jeff/Sites/laborers-of-love/public/css/status.css",
+		"/Users/jeff/Sites/laborers-of-love/public/templates/video.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/js/status.js",
+		"/Users/jeff/Sites/laborers-of-love/views/status.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/templates/errors.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/css/main-old.css",
+		"/Users/jeff/Sites/laborers-of-love/public/css/main.css",
+		"/Users/jeff/Sites/laborers-of-love/public/js/main.js",
+		"/Users/jeff/Sites/laborers-of-love/bin/mydb.py",
+		"/Users/jeff/Sites/laborers-of-love/bin/SourceVideo.py",
+		"/Users/jeff/Sites/laborers-of-love/views/layout.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/PPconfirm.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/js/watch.js",
+		"/Users/jeff/Sites/laborers-of-love/public/css/watch.css",
+		"/Users/jeff/Sites/laborers-of-love/public/js/create.js",
+		"/Users/jeff/Sites/laborers-of-love/views/watch.ejs",
+		"/Users/jeff/Sites/laborers-of-love/.gitignore",
+		"/Users/jeff/Sites/laborers-of-love/public/css/social_buttons.css",
+		"/Users/jeff/Sites/laborers-of-love/views/layout-old.ejs",
+		"/Users/jeff/Desktop/initializr/index.html",
+		"/Users/jeff/Sites/laborers-of-love/public/js/index.js",
+		"/Users/jeff/Sites/laborers-of-love/public/css/styles.css",
+		"/Users/jeff/Sites/laborers-of-love/views/coupons.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/admin.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/lols.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/css/admin.css",
+		"/Users/jeff/Sites/laborers-of-love/package.json",
+		"/Users/jeff/Sites/laborers-of-love/public/templates/titleHelp.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/templates/sourceHelp.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/templates/sliderHelp.ejs",
+		"/Users/jeff/Sites/laborers-of-love/public/templates/couponHelp.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/create.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/balance.ejs",
+		"/Users/jeff/Documents/ccmc-aquarium/.gitignore",
+		"/Users/jeff/Documents/ccmc-aquarium/aquarium/Assets/SUIMONO - WATER SYSTEM/_Suimono_ReadMe_1.45.txt",
+		"/Users/jeff/Sites/laborers-of-love/mturk.js",
+		"/Users/jeff/Sites/laborers-of-love/README.md",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/66F74B16-3F9F-42E7-A094-25AC7955D02F/app.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/7A14CA4B-57C0-47AA-831D-BA61A3464903/mix.py",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/02EDA0E7-7209-42AE-A4F3-996E260A9C21/SourceVideo.py",
+		"/Users/jeff/Sites/laborers-of-love/videos/510b854e19c8f6e1ab000001/info.json",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/F7EBC473-2DF8-45F9-9B95-4FFA2AC884FF/5109760c809972f29b000001.json",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/372EA432-5AB6-47DA-B248-49DB9B9A3A1D/5109760c809972f29b000001.json",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/1301C4C6-832B-4679-82DA-57E3729EC3C5/index.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/D8F4936B-9F86-447B-9FAB-A63BA7C3399D/mix.py",
+		"/Users/jeff/Sites/laborers-of-love/bin/autodatamosh.pl",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/09ECF41D-F15D-470E-997A-E1947751BEA9/SourceVideo.py",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/8D253D6D-CDE0-40C1-A04A-5FC65E87A944/5106e61e17b716d57a000001.json",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/C0786D2F-A9D3-4752-9966-F1992B57639F/app.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/CCD5DFAB-C10D-4FC9-A952-EAD91AD5E4B7/mix.py",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/75BBEBE2-9D66-460A-909B-AC19591EB080/app.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/73EDEF6D-9849-402E-B88C-4980E2BB6D17/forever.log",
+		"/Users/jeff/Sites/laborers-of-love/public/css/socialshareprivacy.css",
+		"/Users/jeff/Desktop/Socialite-master/demo/demo.css",
+		"/Users/jeff/Desktop/Socialite-master/demo/hover.html",
+		"/Users/jeff/Desktop/socialshareprivacy/index.html",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/4DCBAD01-847D-4E0B-8B6E-2878D0130DA9/infoWindow.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/3E84A8B4-A749-4F4F-A2EB-524B320B3C34/app.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/E471F219-EC9B-4BBD-8D5A-B50EBDEF421D/status.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/C738EEE0-FD62-47B4-81F3-253F0C69BD73/status.js",
+		"/Users/jeff/Sites/Fang-of-Mongo/fangofmongo/settings.py",
+		"/Users/jeff/Sites/laborers-of-love/public/robots.txt",
+		"/Users/jeff/Sites/laborers-of-love/public/templates/watch.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/FCC800E5-E58C-4990-A875-3C284F85B0E7/mturk.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/D5A631F6-750C-4DE7-90A3-E6119B9900E0/app.js",
+		"/Users/jeff/Sites/laborers-of-love/public/infoWindow.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/03464FC3-B90B-4C65-82F0-0AF8DBFFE630/status.css",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/E9093476-42F2-4CB2-98DA-B69864AD7257/infoWindow.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/infoWindow.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/C400E0D6-A6E9-4160-8E04-485892E0DF3B/app.js",
+		"/Users/jeff/Sites/laborers-of-love/views/question.ejs",
+		"/Users/jeff/Desktop/mturk-master/model/notification.js",
+		"/Users/jeff/Desktop/mturk-master/index.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/246FFA5B-CB92-4F88-AA9A-490BAA22B328/status.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/2A165959-8CC6-4833-90FD-08EFE853F9D2/status.js",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/18CD981F-FAF8-4E9C-8BC5-34EFE156A3A5/forever.log",
+		"/Users/jeff/Sites/laborers-of-love/views/map.html",
+		"/Users/jeff/Sites/laborers-of-love/public/css/index.css",
+		"/Users/jeff/Sites/laborers-of-love/public/js/utils.js",
+		"/Users/jeff/Sites/laborers-of-love/public/font/Apostrophic Labs License.txt",
+		"/Users/jeff/Desktop/jquery-tooltip/demo/index.html",
+		"/Users/jeff/Sites/laborers-of-love/public/errors.ejs",
+		"/Users/jeff/Sites/laborers-of-love/lol.sublime-project",
+		"/Users/jeff/Sites/laborers-of-love/views/index-old.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/externalquestion.xml.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/downloadEmail.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/PPcancel.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/PPnotfound.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/statusEmail.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/07D70A3B-F8CA-41D4-813E-AE1949E65D33/mix.sh",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/DAEF7EC2-49FB-4A7D-A787-AB027FB3CAC0/mix.sh",
+		"/Users/jeff/Sites/laborers-of-love/videos/50fee9503d29ed0000000001/mix.sh",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/0486700F-F898-4B63-8A48-DB7D93081F27/mix.sh",
+		"/Users/jeff/Sites/laborers-of-love/start.sh",
+		"/Users/jeff/.ssh/known_hosts",
+		"/Users/jeff/Sites/laborers-of-love/views/boilerplate.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/boilerplateEmail.ejs",
+		"/Users/jeff/Documents/youtube-dl/youtube_dl/InfoExtractors.py",
+		"/Users/jeff/Documents/youtube-dl/youtube_dl/PostProcessor.py",
+		"/Users/jeff/Desktop/149988.mpg.info.json",
+		"/Users/jeff/Sites/laborers-of-love/bin/db.py",
+		"/Users/jeff/Sites/laborers-of-love/public/js/scripts.js",
+		"/Users/jeff/Desktop/lolxxx/index.html",
+		"/Users/jeff/Sites/laborers-of-love/videos/50fc9bb220e9320000000001/job00002.flv.info.json",
+		"/Users/jeff/Sites/laborers-of-love/bin/BaseVideo.py",
+		"/Users/jeff/Sites/laborers-of-love/views/gallery.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/readyToDownloadEmail.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/untitled",
+		"/Users/jeff/Sites/laborers-of-love/views/readyToDownload.ejs",
+		"/Users/jeff/Sites/laborers-of-love/views/hits.ejs",
+		"/Users/jeff/Library/Caches/Cleanup At Startup/Transmit/66FDB18F-AE47-4847-A559-8FD6CFFBB21F/InfoExtractors.py",
+		"/Users/jeff/dist/ImageMagick-6.8.1-10/Install-mac.txt",
+		"/Users/jeff/dist/ImageMagick-6.8.1-10/Install-unix.txt",
+		"/Users/jeff/Sites/laborers-of-love/videos/50fadd7cf9da65df71000001/job00001.mp4.info.json",
+		"/Users/jeff/Sites/laborers-of-love/public/css/style.less",
+		"/Users/jeff/Sites/Laborers-of-Love/public/img/thumbnails/README.md",
+		"/Users/jeff/Sites/laborers-of-love/stop.sh",
+		"/etc/hosts"
+	],
+	"find":
+	{
+		"height": 77.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myStyles",
+			"connection",
+			"Couldn't Find",
+			"images",
+			"crypto",
+			"showHeader",
+			"thevideo",
+			"MTURK_SANDBOX",
+			"PAYPAL_SANDBOX",
+			"BYPASS_PAYPAL",
+			"HIT_LIFETIME",
+			"ASSIGNMENT_DURATION",
+			"MAX_VIDEO_FILESIZE",
+			"MIN_VIDEO_FILESIZE",
+			"seconds_range",
+			"MIN_VIDEO_FILESIZE",
+			"PRICE_RANGE",
+			"process",
+			"VIDEO_SECONDS_RANGE",
+			"DESCRIPTION_WORDS_RANGE",
+			"WEBSOCKET_URL",
+			"BASE_URL",
+			"VIDEO_DIR",
+			"S3_BASE",
+			"ipData",
+			");\n",
+			"hover",
+			"img",
+			"content-type",
+			"loltube",
+			"linkPatterns",
+			"validUrl",
+			"s3path",
+			"uploaded",
+			"uploadedToS3",
+			"s3path",
+			"contains",
+			"sceneLength",
+			"ping",
+			"console.log",
+			"/question",
+			"/PPconfirm",
+			"order total",
+			"/question",
+			"lat",
+			"latitude",
+			"MAX_VIDEO_SECONDS",
+			"expired",
+			"/validurl",
+			"getParameterByName",
+			"validate",
+			"/question",
+			"/status",
+			"sort",
+			"/watch",
+			"srcMain",
+			"txtin",
+			"mixProgress",
+			"autosave",
+			"bg",
+			"json2xml",
+			"glob",
+			"assert",
+			"print",
+			"sameq",
+			"mix01",
+			"360",
+			"640x360",
+			"/question",
+			"ffmpeg",
+			"sort",
+			"extname",
+			"1",
+			"img",
+			"img/thumbnailsimages",
+			"img/thumbnails",
+			"latitude",
+			"unlink",
+			"$set",
+			"postedtoTurk",
+			"db.jobs.update",
+			"rename",
+			"unable to rename file",
+			"/download",
+			"mime",
+			"RejectAssignment",
+			"invalid",
+			"POpen",
+			"_id,",
+			"thumbnal",
+			"connection.lol.lols.update",
+			"\"$set\"",
+			"youtube-dl",
+			"/download",
+			"projectDir",
+			"mixProgress",
+			"$inc",
+			"moshed",
+			".posted",
+			"os.hostname",
+			"os.",
+			"lolId",
+			"ws.send",
+			"ws.",
+			"loadProgressID",
+			"ObjectI",
+			"ObjectID",
+			".save",
+			"stub",
+			"stubslugs",
+			"stub",
+			"Approved job",
+			"Created HITType",
+			"found",
+			"GetAssignmentsForHIT",
+			"GetReviewable",
+			"assignmentsBeingReviewed",
+			"console.log(\"ApproveAssignmen",
+			"Array",
+			"splice",
+			"DisableHIT",
+			"ApproveAssignment",
+			"RejectAssignmen",
+			"ApproveAssignment",
+			"GetAssignmentsForHIT",
+			"app.get('/test'",
+			"'/test'",
+			"/test"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"mixProgress\"",
+			"\"$inc\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"lol.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
